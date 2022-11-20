@@ -23,4 +23,5 @@ exec geth \
   --metrics.influxdb \
   --metrics.influxdb.endpoint=http://influxdb:8086 \
   --metrics.influxdb.database=l2geth \
+  -- asdad
   $@
